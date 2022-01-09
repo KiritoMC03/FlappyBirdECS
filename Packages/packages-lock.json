@@ -1,5 +1,26 @@
 {
   "dependencies": {
+    "com.leopotam.ecslite": {
+      "version": "https://github.com/Leopotam/ecslite.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "0b7f9c8b1a05c5b96b8cc10b0c4b5fa78472f58e"
+    },
+    "com.leopotam.ecslite.extendedsystems": {
+      "version": "https://github.com/Leopotam/ecslite-extendedsystems.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "6f914d9a723a99338af11b03961694adc4674311"
+    },
+    "com.leopotam.ecslite.unityeditor": {
+      "version": "https://github.com/Leopotam/ecslite-unityeditor.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "93d8dcde21f441afe7226eea6635a798aa32aff9"
+    },
     "com.unity.collab-proxy": {
       "version": "1.13.5",
       "depth": 0,
@@ -98,6 +119,13 @@
         "com.unity.modules.ui": "1.0.0",
         "com.unity.modules.imgui": "1.0.0"
       }
+    },
+    "com.voody.unileo.lite": {
+      "version": "https://github.com/voody2506/UniLeo-Lite.git",
+      "depth": 0,
+      "source": "git",
+      "dependencies": {},
+      "hash": "640e5a72eee39c65c012face4425f1c504b8b8f4"
     },
     "com.unity.modules.ai": {
       "version": "1.0.0",
